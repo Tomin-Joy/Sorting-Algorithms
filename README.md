@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tomin-Joy.Sorting-Algorithms">
 <h1 align="center">
   <a >
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;This+repo+contain;most+popular;Sorting+Algorithms&center=true&size=30">
