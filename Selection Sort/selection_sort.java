@@ -6,9 +6,7 @@ public class selection_sort
             for(int j = k+1; j < arr.length; j++)
                 if (arr[j] < arr[min_idx])
                     min_idx = j;
-            
-            //swap
-            int temp = arr[min_idx];
+            int temp = arr[min_idx]; //swap
             arr[min_idx] = arr[k];
             arr[k] = temp;
         }
@@ -18,7 +16,6 @@ public class selection_sort
             System.out.print(arr[i] + " ");
         }
     }
-
     public static void main(String args[]) {
         int arr[] = {64,25,12,22,11};
         selectionSort(arr);
