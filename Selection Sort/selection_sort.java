@@ -1,4 +1,5 @@
-public class selection_sort {
+public class selection_sort 
+{
     static void selectionSort(int arr[]) {
         for(int k = 0; k < arr.length-1; k++) {
             int min_idx = k;
