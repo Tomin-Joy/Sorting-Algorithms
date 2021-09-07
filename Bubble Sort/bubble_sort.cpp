@@ -32,6 +32,5 @@ int main() {
     int n = sizeof(arr)/sizeof(arr[0]);
     bubbleSort(arr, n);
     printArray(arr, n);
-    
     return 0;
 }
