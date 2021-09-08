@@ -18,4 +18,4 @@ And then we merge the final two groups:
 [1, 2, 4, 4, 31, 42, 88]<br><hr>
 
 Now the array is sorted! The idea behind the algorithm is that smaller parts are easier to sort.
-The merge operation is the most important part of the algorithm.
+The merge operation is the most important part of the algorithm. 
