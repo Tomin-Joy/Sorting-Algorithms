@@ -25,7 +25,7 @@ For example, QuickSort is a very efficient, but can be pretty tricky to implemen
 Bubble Sort may be a better option since it can be implemented quickly, but for larger datasets, 
 the speed of QuickSort might be worth the work of implementing the algorithm.
 
-In this repository all the above mentioned sorting algorithms will be implemented shortly in the languages:
+In this repository all the above mentioned sorting algorithms are implemented in the languages:
  - Python
  - C++
  - Java
