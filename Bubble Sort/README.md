@@ -4,9 +4,9 @@ The algorithm compares two adjacent elements and then swaps them if they are not
 The process is repeated until no more swapping is needed.
 <br><br><br>
 Let's take the following array: [3, 1, 5, 2]
-Step 1: [1, 3, 5, 2] - the first two elements are compared and swapped.
-Step 2: [1, 3, 5, 2] - the next pair is compared and not swapped, as they are in order.
-Step 3: [1, 3, 2, 5] - the last two elements are swapped.
+Step 1: [1, 3, 5, 2] - the first two elements are compared and swapped.<br>
+Step 2: [1, 3, 5, 2] - the next pair is compared and not swapped, as they are in order.<br>
+Step 3: [1, 3, 2, 5] - the last two elements are swapped.<br>
 
 This was the first iteration over the array. Now we need to start the second iteration:<br>
 Step 1: [1, 3, 2, 5]<br>
