@@ -3,7 +3,7 @@ It is an algorithm which is used to sort a list of elements, for example element
 The algorithm compares two adjacent elements and then swaps them if they are not in order.
 The process is repeated until no more swapping is needed.
 <br><br><br>
-Let's take the following array: [3, 1, 5, 2]
+Let's take the following array: [3, 1, 5, 2]<br>
 Step 1: [1, 3, 5, 2] - the first two elements are compared and swapped.<br>
 Step 2: [1, 3, 5, 2] - the next pair is compared and not swapped, as they are in order.<br>
 Step 3: [1, 3, 2, 5] - the last two elements are swapped.<br>
